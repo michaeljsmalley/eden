@@ -1,0 +1,27 @@
+The directory structure is as follows:
+
+  .
+  ├── README 
+  ├── bin
+  ├── doc
+  ├── eden
+  ├── lib
+  └── tests
+
+README
+  this file
+
+bin
+  standalone binaries
+
+doc
+  generated documentation
+
+eden
+  project files and modules
+
+lib
+  C libraries
+
+tests
+  various tests
